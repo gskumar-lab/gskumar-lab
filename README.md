@@ -9,11 +9,11 @@
 
 🔧 **Tech Stack:**
 
-- 🖥️ Cloud Platforms: **AWS (EC2, S3, Lambda, IAM, CloudFormation, CloudWatch)**
-- 🔧 DevOps Tools: **Docker, Kubernetes, GitHub Actions, Terraform**
-- 📦 CI/CD Pipelines: **Jenkins, GitHub Actions, AWS CodePipeline**
-- 📡 Monitoring/Logging: **Prometheus, Grafana, ELK, CloudWatch**
-- 🐧 OS: **Linux (Ubuntu, RHEL), Windows**
+- 🖥️ Cloud Platforms: **AWS (EC2, S3, VPC, RDS, DynamoDB, Lambda,  IAM, CloudFormation, CloudWatch)**
+- 🔧 DevOps Tools: **Docker, Terraform, Ansible**
+- 📦 CI/CD Pipelines: **GitHub Actions, Jenkins, AWS CodePipeline**
+- 📡 Monitoring/Logging: **Prometheus, Grafana, CloudWatch**
+- 🐧 OS: **Linux (Ubuntu, Amazon Linux), Windows**
 
 ---
 
@@ -21,8 +21,9 @@
 
 | Project | Description | Stack | Link |
 |--------|-------------|-------|------|
-| **Task Manager Web App** | Serverless task app with auth | Amplify, Cognito, Lambda, DynamoDB | [View](https://github.com/gskumar-lab/serverless-todo-taskflow) |
-| **3-Tier Web App** | Prod-ready app with React + Flask | React, Flask, PostgreSQL, Docker, NGINX | [View](https://github.com/gskumar-lab/3-tier-app-infra-terraform) |
+| **Serverless Task Manager Web App using AWS** | Serverless task app with auth | Amplify, Cognito, API Gateway, Lambda, DynamoDB | [View](https://github.com/gskumar-lab/serverless-todo-taskflow) |
+| **3-Tier Web App in AWS using Terraform** | Prod-ready app with React + Flask deployed with Disaster Recovery | AWS, Terraform, VPC, RDS, IAM, Route53 | [View](https://github.com/gskumar-lab/3-tier-app-infra-terraform) |
+| **Modern-portfolio-site** | Portfolio site CI-CD implemented using Github Actions | Github Actions, Amplify, S3, Cloudfront, Route53, ACM | [View]((https://github.com/gskumar-lab/modern_portfolio_site)) |
 
 ---
 
