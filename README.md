@@ -23,6 +23,7 @@
 |--------|-------------|-------|------|
 | **Serverless Task Manager Web App using AWS** | Serverless task app with auth | Amplify, Cognito, API Gateway, Lambda, DynamoDB | [View](https://github.com/gskumar-lab/serverless-todo-taskflow) |
 | **3-Tier Web App in AWS using Terraform** | Prod-ready app with React + Flask deployed with Disaster Recovery | AWS, Terraform, VPC, RDS, IAM, Route53 | [View](https://github.com/gskumar-lab/3-tier-app-infra-terraform) |
+| **MERN Stack - Nginx Implementation using Docker Compose** | serving the frontend, reverse proxying, and load balancing across multiple backend instances | MERN, Nginx, Docker Compose | [View](https://github.com/gskumar-lab/MERN-nginx-docker-compose) |
 | **Modern-portfolio-site** | Portfolio site CI-CD implemented using Github Actions | Github Actions, Amplify, S3, Cloudfront, Route53, ACM | [View](https://github.com/gskumar-lab/modern-portfolio-site) |
 
 ---
